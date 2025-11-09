@@ -5,14 +5,14 @@
 
 | No  | Minggu ke  | Praktikum ke  | Topik  | Laporan | Repository |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
-|  1 | 01  | 01  | Pengenalan Mobile Programming dan Setup Lingkungan  | [Modul 01](https://docs.google.com/document/d/1-2KbTSGtdZtIAzES-U2OqT0cT5SMSPlH/edit?usp=sharing&ouid=106902444689874126478&rtpof=true&sd=true "Modul 01") | [Source Code](https://github.com/YusufGiaan/Modul1 "Repository") |
-|  2 | 01  | 01  | Widget Row dan Column | [Modul 02](https://docs.google.com/document/d/1gmDwR0qesdks4MqSjlU20DyfE8-zLm5xSYJ51w9k9m4/edit?usp=sharing "Modul 02")| [Source Code](https://github.com/yugiowh/Modul2 "Repository") |
-|  3 | 02  | 02  | Pengaturan Layout Row dan Column di Flutter  | [Modul 03](https://docs.google.com/document/d/1x2Rjj_w-Uo9pKT_w50Pz0G5QXtLKRAvLe8auQPBQloQ/edit?tab=t.0 "Modul 03")| [Source Code](https://github.com/YusufGiaan/Modul3 "Repository") |
-|  4 | 02  | 02  | Widget Flexible dan Expanded  | [Modul 04](https://docs.google.com/document/d/1yMx0EtjtKU8Ic-LdONUAidFz6FcSkjdpXdqdfA_PXtI/edit?usp=sharing "Modul 04")| [Source Code](https://github.com/yugiowh/Modul4 "Repository") |
-|  5 | 3  | 3  | Widget SizedBox, Spacer, dan Card | [Modul 05](https://docs.google.com/document/d/14HdWomThie5zjVJJGqAug8GzUXSPADwHqdWtkpvWxvI/edit?tab=t.0 "Modul 5")| [Source Code](https://github.com/yugiowh/Modul5 "Repository") |
-|  6 | 3  | 3  | Widget GridView, ListView, GridView.builder, dan ListView.builder | [Modul 06](https://docs.google.com/document/d/1rOWYS5Sl75X1w8XFEOpx9kmjjVJSz5dqXEOTsHAmwl8/edit?tab=t.0 "Modul 6")| [Source Code](https://github.com/yugiowh/Modul6 "Repository") |
-|  7 | 4  | 4  | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Modul 07](https://docs.google.com/document/d/1muSbl2mLvVTcy-9uRobf9AUZdu-ZKs8V7eBhL24NV0U/edit?tab=t.0 "Modul 7")| [Source Code](https://github.com/yugiowh/modul7 "Repository") |
-|  8 | 4  | 4  | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Modul 08](- "Modul 8")| [Source Code](- "Repository") |
-|  9 | 5  | 5  | StatefulWidget | [Modul 09](- "Modul 9")| [Source Code](- "Repository") |
-|  10 | 6  | 6  | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10](- "Modul 10")| [Source Code](- "Repository") |
+|  1 | 01  | 01  | Instalasi Flutter  | [BAB 1](https://docs.google.com/document/d/1h2QXO51qOzl4yPCCrkiT8OaAOkZv7g0q_dby62FYM5k/edit?tab=t.0 "Modul 01") | [Source Code](https://github.com/yugiowh/bab1-PrakMobile "Repository") |
+|  2 | 01  | 01  | Create First Project in Flutter | [BAB 2](https://docs.google.com/document/d/1-luisSfDgg6YQVZ1co_bO3xceG9v70hP15az4tBB0Og/edit?tab=t.0#bookmark=id.rtfi9soabgd1 "Modul 02")| [Source Code](https://github.com/yugiowh/bab2-PrakMobile "Repository") |
+|  3 | 02  | 02  | Widget and Layout  | [BAB 3](https://docs.google.com/document/d/1eVQ3eUw6p8uG2_cZWue8QupB3j7ReXVVkbFGcCP4LCw/edit?tab=t.0 "Modul 03")| [Source Code](https://github.com/yugiowh/Bab3-PrakMobile "Repository") |
+|  4 | 02  | 02  | Interaction and User Input  | [BAB 4](https://docs.google.com/document/d/1QKG8QqVZqnfv_iiKhGrsS8gTxN8cxxFGSfX2n24_avs/edit?tab=t.0 "Modul 04")| [Source Code](https://github.com/yugiowh/bab4-PrakMobile "Repository") |
+|  5 | 3  | 3  | Routing dan Navigasi | [BAB 5](https://docs.google.com/document/d/1F-WRZso-37yfLm6jKVPVZa1mqU5xnYcbk8Je1sxSpnc/edit?tab=t.0 "Modul 5")| [Source Code](https://github.com/yugiowh/bab5-PrakMobile "Repository") |
+|  6 | 3  | 3  | Package and Plugin | [BAB 6](https://docs.google.com/document/d/1EST_B1UGU3sqsrPrZLMv_ddBurgQ3uHFquVyOInw9n8/edit?tab=t.0 "Modul 6")| [Source Code](https://github.com/yugiowh/bab6-PrakMobile "Repository") |
+|  7 | 4  | 4  | Pengenalan REST API | [BAB 7](- "Modul 7")| [Source Code](- "Repository") |
+|  8 | 4  | 4  | Create Web Service using MVC CodeIgniter | [BAB 8](https://docs.google.com/document/d/18b0gN-BO8ZGpA974SmF6m2fsg6yq52gCoTsci7uQL88/edit?tab=t.0 "Modul 8")| [Source Code](- "Repository") |
+|  9 | 5  | 5  | Consuming API | [BAB 9](https://docs.google.com/document/d/1SbZB8n1WBzGCuLAXkrcO2MmofKGw7dusy5sqBorT47Y/edit?tab=t.0#bookmark=id.oj9sdryh1yzo "Modul 9")| [Source Code](https://github.com/yugiowh/bab9-PrakMobile "Repository") |
+|  10 | 6  | 6  | Build and Delivery | [BAB 10](- "Modul 10")| [Source Code](- "Repository") |
 
